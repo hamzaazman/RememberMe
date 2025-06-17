@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">RememberMe</string>
+    <string name="app_name">Remember Me</string>
+    <string name="add_new_reminder">Add New Reminder</string>
+    <string name="reminder_title_hint">Title</string>
+    <string name="reminder_description_hint">Description (Optional)</string>
+    <string name="reminder_date_hint">Date</string>
+    <string name="reminder_time_hint">Time</string>
+    <string name="reminder_priority_label">Priority</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="save_reminder_button">Save Reminder</string>
+    <string name="edit_reminder_title">Edit Reminder</string>
+    <string name="add_reminder_title">Add New Reminder</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+    <string name="date_time_cannot_be_empty">Date and time cannot be empty</string>
+    <string name="reminder_saved">Reminder saved!</string>
 </resources>
